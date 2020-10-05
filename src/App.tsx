@@ -30,7 +30,7 @@ export default function App () {
 
       <br/>
 
-      <div style={{marginTop: 16, textAlign: "left"}}>
+      <div style={{marginTop: 16}}>
       {todoList.map(todo => (
         <div style={{marginTop: 4}}>
         <FormControlLabel
