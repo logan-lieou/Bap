@@ -19,7 +19,7 @@ export default function App () {
       <Typography variant="h1" component="h2" gutterBottom>TodoApp</Typography>
 
       <form onSubmit={handleSubmit}>
-      <TextField label="Standard" type="text" value={todo} onChange={text => setTodo(text.target.value)}/>
+      <TextField label="Todo Item" type="text" value={todo} onChange={text => setTodo(text.target.value)}/>
       </form>
 
       <br/>

@@ -1,7 +1,7 @@
 {
   "name": "bap",
   "version": "0.1.0",
-  "homepage": "http://logan-lieou.github.io/Bap",
+  "homepage": "https://logan-lieou.github.io/Bap",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
